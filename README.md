@@ -10,7 +10,6 @@
 <div align="center"> 
 <h3 align="left">Connect with me:</h3>
 <a href = "mailto:jessikaqueiroz91@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://wa.me/5583987228120"> <img src="https://img.shields.io/badge/Whatsapp-00800?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jéssika-queiroz-797921130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
