@@ -35,7 +35,20 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
 </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/>
+</a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="openai" width="40" height="40"/>
+</a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/hf-logo-with-title.png" alt="hugging face" width="40" height="40"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
+</a>
 
+</p>
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
